@@ -1,5 +1,5 @@
 # Instacart_Basket_Analysis
-Instacart is an online grocery delivery app. This project aims better to understand Instacart's customer base and spending habits. Data insights were derived from initial data and exploratory analysis of Instacart's customer dataset. Python was utilized to explore the data in the customer database and to generate useful visualizations. 
+Instacart is an online grocery delivery app. This project aims to understand Instacart's customer base and customer spending habits. Data insights were derived from initial data and exploratory analysis of Instacart's customer dataset. Python was utilized to explore the data in the customer database and to generate visualizations. 
 
 Key Questions: 
 1. When are the busiest days of the week?
